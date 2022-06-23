@@ -21,3 +21,15 @@ class sub
     System.out.println("difference of 2 number is"+c);
   }
 }
+
+
+class mul
+{
+  public void main (String args[])
+  {
+    int a=10;
+    int b=5;
+    int c=a*b;
+    System.out.println("product of 2 numbers is"+c);
+  }
+}
